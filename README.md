@@ -1,3 +1,13 @@
+Redo the projects in progress...
+
+Well post the solution later
+
+
+----------- original project------------
+
+
+
+
 # DS in Finance and Insurance
 
 ## Final Projecct: Comprehensive Housing Price Prediction in Daegu Using Machine Learning Models Summary
